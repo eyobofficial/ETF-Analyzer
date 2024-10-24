@@ -8,6 +8,9 @@ ETF Analyzer is a Python-based project designed to analyze the performance of ET
 
 # Local Setup
 1. Clone the repository to your local machine.
+```sh
+git clone git@github.com:eyobofficial/ETF-Analyzer.git
+```
 2. Navigate to the root directory of the repository and create a Python virtual environment. (optional but recommended)
 ```sh
 cd etf-analyzer
